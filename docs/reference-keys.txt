@@ -1,3 +1,3 @@
-instalación-de-galera
+instalación-de-galera-cluster
 implementación-de-galera-cluster
 a-caucus-race-and-a-long-tale

@@ -1,9 +1,9 @@
 --- 
-title: "Free Radius + Galera Cluster"
+title: "Implementación de Free Radius + Galera Cluster"
 author: "Edison F. Naranjo E."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Instalación de Galera
+En el presente documento
 
