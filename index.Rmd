@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Free Radius + Galera Cluster"
+author: "Edison F. Naranjo E."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
