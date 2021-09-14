@@ -1,20 +1,18 @@
 --- 
-title: "Configuración de Cluster Galera + Free Radius en CentOS 7"   
-author: "Edison F. Naranjo E."
+title: "Configuración de Galera Cluster + Free Radius"
+author: "Edison F. Naranjo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-header-includes:
-- \usepackage[utf8]{inputenc} #para usar accentos
-# Formato de titulo de capitulo
-# Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
-- \usepackage[Lenny]{fncychap}
-geometry: 
-- tmargin=2.5cm
-- bmargin=2.5cm
-- lmargin=2.5cm
-- rmargin=2cm
 output: bookdown::gitbook
-  
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+
 ---
+
+# Introducción {-}
+
+Esta es una plantilla para usar el paquete bookdown para elaborar libros con Rmarkdown.
+
 
 

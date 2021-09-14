@@ -8,4 +8,4 @@ language:
     fig: 'Figura '
     tab: 'Tabla '
   ui:
-    chapter_name: "Sección"
+    chapter_name: ""
