@@ -1,3 +1,3 @@
-# Generalidades
+# Diagrama de la Arquitectura
 
 En el presente documento

@@ -1,2 +1,2 @@
-# Implementación de Galera Cluster
+# Direccionamiento IPv4 y FQDN
 
