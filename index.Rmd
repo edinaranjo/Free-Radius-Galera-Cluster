@@ -1,9 +1,26 @@
 --- 
-title: "Implementación de Free Radius + Galera Cluster"
+title: "Configuración de Cluster Galera + Free Radius en CentOS 7"   
 author: "Edison F. Naranjo E."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+documentclass: book  # tipo documento: book, article
+#bibliography: [book.bib]  # para usar referencias bibliográficas
+biblio-style: apalike
+link-citations: yes
+description: "Galera"
+lang: es
+papersize: a5
+fontsize: 12pt # tamaño puede ser 10, 11 o 12pt solo
+fontfamily: avant # palatino, helvet, utopia, times, pifont, courier, bookman, newcent y avant
+classoption: oneside # una cara
+openright: yes # los capitulos siempre empiezan a la derecha en pag nueva
+geometry: 
+- tmargin=2.5cm
+- bmargin=2.5cm
+- lmargin=2.5cm
+- rmargin=2cm
+output: bookdown::gitbook
+  
 ---
 
-En el presente documento
 
