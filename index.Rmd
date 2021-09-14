@@ -12,7 +12,7 @@ link-citations: yes
 
 # Introducción {-}
 
-Esta es una plantilla para usar el paquete bookdown para elaborar libros con Rmarkdown.
+MariaDB Galera Clúster
 
 
 
