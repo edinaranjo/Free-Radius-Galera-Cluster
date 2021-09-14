@@ -1,2 +1,9 @@
 # Direccionamiento IPv4 y FQDN
 
+|Host   | Dirección IPv4  | FQDN  |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
